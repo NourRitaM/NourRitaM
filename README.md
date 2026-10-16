@@ -1,27 +1,118 @@
-# 💫 About Me:
-<br><div align="center"><br><br># 👾 Hey, I'm Nour Rita Mokbel!<br><br>### 🎓 Computer and Communication Engineering Student<br>### 💻 Software Development • 🎮 Game Development • 🧩 Problem Solving<br><br>*I love turning ideas into working applications, experimenting with code, and building games one project at a time.*<br><br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-mokbel)<br><br></div><br><br>---<br><br>## 🕹️ Player Profile<br><br>```text<br>Player       : Nour Rita Mokbel<br>Class        : Engineering Student<br>Main Quest   : Building software & games<br>Favorite Mode: Turning ideas into projects<br>Current Goal : Becoming a better developer, one line at a time<br>```<br><br>I'm a Computer and Communication Engineering student at Saint Joseph University of Beirut (USJ), passionate about software development, game logic, and solving challenging problems.<br><br>I enjoy working on projects that let me combine creativity with logical thinking, from implementing games to developing applications and experimenting with hardware.<br><br>## 🎮 Featured Projects<br><br>### 🧩 Tetris — Game Development<br>An independent game development project featuring a complete Tetris implementation.<br><br>**Focus:** Game logic, algorithms, and problem-solving.<br><br>### 🌈 Color Detection & Display System<br>A team project using C++ and Arduino Mega 2560 to classify objects into five colors using a TCS3200 sensor.<br><br>**Tech:** C++ · Arduino · I2C · PWM<br><br>### 🌐 Web Applications<br>A collection of personal web projects, including a To-Do List application and a Weather Forecast website integrating a weather API.<br><br>**Tech:** HTML · CSS · JavaScript · APIs<br><br>### 🎓 Online Exam Proctoring Platform<br>A university team project featuring login, online quizzes, webcam-based monitoring, and cheating-detection functionality.<br><br>**Tech:** HTML · CSS · JavaScript<br><br>## 🛠️ My Tech Stack<br><br><div align="center"><br><br>### 💻 Programming Languages<br><br>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>### 🌐 Web Development<br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br><br>### ⚙️ Tools & Technologies<br><br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br></div><br><br>## 🌱 Currently Growing<br><br>- Strengthening my data structures and algorithms skills<br>- Exploring software design patterns and object-oriented programming<br>- Improving my ability to design, implement, and debug software<br>- Building more personal projects and exploring game development<br><br>## 📊 GitHub Stats<br><br><div align="center"><br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)<br><br></div><br><br>*Stats and language cards are generated dynamically from your public GitHub activity and repositories.*<br><br>## ⚡ Beyond the Code<br><br>- 🎮 I enjoy creating games and experimenting with game mechanics.<br>- 🧠 I like algorithmic challenges that push me to think differently.<br>- 🛠️ I enjoy building projects that turn concepts into something tangible.<br>- 🤝 I value teamwork, creativity, and learning through hands-on experience.<br><br>---<br><br><div align="center"><br><br>### 🚀 Every project is another level unlocked.<br><br>**Thanks for visiting my profile!**<br><br>⭐ Explore my repositories and follow my development journey.<br><br></div><br>
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nour-rita-mokbel-b422b7349/?isSelfProfile=true) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nour Rita Mokbel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mokbelnourrita@gmail.com) 
+# 👾 Hey, I'm Nour Rita Mokbel!
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NourRitaM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NourRitaM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NourRitaM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🎓 Computer and Communication Engineering Student
+### 💻 Software Development • 🎮 Game Development • 🧩 Problem Solving
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NourRitaM&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+*I love turning ideas into working applications, experimenting with code, and building games one project at a time.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-mokbel)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NourRitaM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=NourRitaM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🕹️ Player Profile
+
+```text
+Player       : Nour Rita Mokbel
+Class        : Engineering Student
+Main Quest   : Building software & games
+Favorite Mode: Turning ideas into projects
+Current Goal : Becoming a better developer, one line at a time
+```
+
+I'm a Computer and Communication Engineering student at Saint Joseph University of Beirut (USJ), passionate about software development, game logic, and solving challenging problems.
+
+I enjoy working on projects that let me combine creativity with logical thinking, from implementing games to developing applications and experimenting with hardware.
+
+## 🎮 Featured Projects
+
+### 🧩 Tetris — Game Development
+An independent game development project featuring a complete Tetris implementation.
+
+**Focus:** Game logic, algorithms, and problem-solving.
+
+### 🌈 Color Detection & Display System
+A team project using C++ and Arduino Mega 2560 to classify objects into five colors using a TCS3200 sensor.
+
+**Tech:** C++ · Arduino · I2C · PWM
+
+### 🌐 Web Applications
+A collection of personal web projects, including a To-Do List application and a Weather Forecast website integrating a weather API.
+
+**Tech:** HTML · CSS · JavaScript · APIs
+
+### 🎓 Online Exam Proctoring Platform
+A university team project featuring login, online quizzes, webcam-based monitoring, and cheating-detection functionality.
+
+**Tech:** HTML · CSS · JavaScript
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+## 🌱 Currently Growing
+
+- Strengthening my data structures and algorithms skills
+- Exploring software design patterns and object-oriented programming
+- Improving my ability to design, implement, and debug software
+- Building more personal projects and exploring game development
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+*Stats and language cards are generated dynamically from your public GitHub activity and repositories.*
+
+## ⚡ Beyond the Code
+
+- 🎮 I enjoy creating games and experimenting with game mechanics.
+- 🧠 I like algorithmic challenges that push me to think differently.
+- 🛠️ I enjoy building projects that turn concepts into something tangible.
+- 🤝 I value teamwork, creativity, and learning through hands-on experience.
+
+---
+
+<div align="center">
+
+### 🚀 Every project is another level unlocked.
+
+**Thanks for visiting my profile!**
+
+⭐ Explore my repositories and follow my development journey.
+
+</div>
