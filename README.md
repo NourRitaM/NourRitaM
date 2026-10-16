@@ -1,118 +1,98 @@
 
 <div align="center">
 
-# 👾 Hey, I'm Nour Rita Mokbel!
+# Nour Rita Mokbel
 
-### 🎓 Computer and Communication Engineering Student
-### 💻 Software Development • 🎮 Game Development • 🧩 Problem Solving
+**Computer and Communication Engineering Student**
 
-*I love turning ideas into working applications, experimenting with code, and building games one project at a time.*
+Software Development · Game Development · Problem Solving
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/NourRitaM/NourRitaM/edit/main/README.md))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-mokbel)
+Building software, creating games, and turning ideas into working projects.
+
+[LinkedIn](https://linkedin.com/in/nour-mokbel) · [Projects](#selected-projects)
 
 </div>
 
 ---
 
-## 🕹️ Player Profile
+## About Me
 
-```text
-Player       : Nour Rita Mokbel
-Class        : Engineering Student
-Main Quest   : Building software & games
-Favorite Mode: Turning ideas into projects
-Current Goal : Becoming a better developer, one line at a time
-```
+I'm a Computer and Communication Engineering student at Saint Joseph University of Beirut (USJ), interested in software development, game logic, and algorithmic problem-solving.
 
-I'm a Computer and Communication Engineering student at Saint Joseph University of Beirut (USJ), passionate about software development, game logic, and solving challenging problems.
+I enjoy creating projects from scratch, particularly with **C++ and Java**, and exploring how ideas can become practical applications.
 
-I enjoy working on projects that let me combine creativity with logical thinking, from implementing games to developing applications and experimenting with hardware.
+## Areas of Interest
 
-## 🎮 Featured Projects
+- **Game Development** — implementing game mechanics and logic
+- **Software Engineering** — object-oriented programming and design patterns
+- **Problem Solving** — algorithms, data structures, and logical challenges
+- **Application Development** — building useful web and software projects
 
-### 🧩 Tetris — Game Development
-An independent game development project featuring a complete Tetris implementation.
+## Tech Stack
 
-**Focus:** Game logic, algorithms, and problem-solving.
+**Languages**
 
-### 🌈 Color Detection & Display System
-A team project using C++ and Arduino Mega 2560 to classify objects into five colors using a TCS3200 sensor.
+![C++](https://img.shields.io/badge/C%2B%2B-34495E?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-34495E?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-34495E?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-34495E?style=flat-square&logo=javascript&logoColor=white)
 
-**Tech:** C++ · Arduino · I2C · PWM
+**Web Development**
 
-### 🌐 Web Applications
-A collection of personal web projects, including a To-Do List application and a Weather Forecast website integrating a weather API.
+![HTML5](https://img.shields.io/badge/HTML5-667085?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-667085?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-667085?style=flat-square&logo=react&logoColor=white)
 
-**Tech:** HTML · CSS · JavaScript · APIs
+**Tools & Platforms**
 
-### 🎓 Online Exam Proctoring Platform
-A university team project featuring login, online quizzes, webcam-based monitoring, and cheating-detection functionality.
+![Git](https://img.shields.io/badge/Git-475467?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-475467?style=flat-square&logo=linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-475467?style=flat-square&logo=arduino&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-475467?style=flat-square&logo=mysql&logoColor=white)
 
-**Tech:** HTML · CSS · JavaScript
+## Selected Projects
 
-## 🛠️ My Tech Stack
+### Tetris
+An independently developed Tetris implementation focused on game logic and algorithmic thinking.
 
-<div align="center">
+**C++ · Game Development**
 
-### 💻 Programming Languages
+### Color Detection & Display System
+A team-built embedded system that classifies five colors using a TCS3200 sensor and displays results through an LCD and RGB LED.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**C++ · Arduino Mega 2560 · I2C · PWM**
 
-### 🌐 Web Development
+### Web Applications
+Personal projects including a To-Do List and a Weather Forecast website using a weather API.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**HTML · CSS · JavaScript**
 
-### ⚙️ Tools & Technologies
+### Online Exam Proctoring Platform
+A university team project featuring authentication, online quizzes, webcam monitoring, and cheating-detection functionality.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**HTML · CSS · JavaScript**
 
-</div>
+## Currently Learning
 
-## 🌱 Currently Growing
+- Data Structures & Algorithms
+- Object-Oriented Design and Design Patterns
+- Software Architecture
+- Improving my programming and problem-solving skills
 
-- Strengthening my data structures and algorithms skills
-- Exploring software design patterns and object-oriented programming
-- Improving my ability to design, implement, and debug software
-- Building more personal projects and exploring game development
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=34495E&text_color=475467&icon_color=667085)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=34495E&text_color=475467)
 
 </div>
-
-*Stats and language cards are generated dynamically from your public GitHub activity and repositories.*
-
-## ⚡ Beyond the Code
-
-- 🎮 I enjoy creating games and experimenting with game mechanics.
-- 🧠 I like algorithmic challenges that push me to think differently.
-- 🛠️ I enjoy building projects that turn concepts into something tangible.
-- 🤝 I value teamwork, creativity, and learning through hands-on experience.
 
 ---
 
 <div align="center">
 
-### 🚀 Every project is another level unlocked.
-
-**Thanks for visiting my profile!**
-
-⭐ Explore my repositories and follow my development journey.
+*Turning ideas into working applications, one project at a time.*
 
 </div>
