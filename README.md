@@ -8,7 +8,7 @@
 
 *I love turning ideas into working applications, experimenting with code, and building games one project at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/NourRitaM/NourRitaM/edit/main/README.md))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-mokbel)
 
 </div>
